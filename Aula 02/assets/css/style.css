@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #cfcfcf;
   color: #fff;
   padding: 10px 0;
 }
@@ -42,7 +42,7 @@ img {
   height: auto;
   margin: 20px 0;
 }
-
+/* 
 footer{
     background-color: #333;
     color: #fff;
@@ -51,4 +51,12 @@ footer{
     position: fixed;
     width: 100%;
     bottom: 0;
+} */
+
+.imgbanner{
+  background: no-repeat center;
+  object-fit: fill;
 }
+
+
+
